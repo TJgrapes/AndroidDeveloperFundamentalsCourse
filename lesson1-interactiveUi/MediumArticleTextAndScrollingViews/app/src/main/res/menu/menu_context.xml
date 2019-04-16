@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/context_menu_edit"
+        android:title="@string/context_menu_edit_text" />
+
+    <item
+        android:id="@+id/context_menu_share"
+        android:title="@string/share_menu_edit" />
+
+    <item
+        android:id="@+id/context_menu_delete"
+        android:title="@string/context_menu_delete_text" />
+
+</menu>
