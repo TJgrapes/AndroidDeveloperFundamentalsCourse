@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:18:1-41:12
+MERGED from [com.android.support:design:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/81e14d38a85906f6c341569ccb733d85/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/df35f91e58061bd5813aecad89c3a90b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/dbba6e27c5ea75f4c46d59ff1f6ae51b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/465da768e3f98d74ea48e16977a7b339/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8f784a1fb55725a38432579576d78539/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/8675b5b4cd01523d59f418c53d08066c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/05a97e21f8a847323e8d0d3bad406dd4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/78dfc87a49ae6920bf180b59350d1723/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e1d32d4978667b488afabf28eeff1b20/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/9c9200797d3a3fd340dbdec9a3343279/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3eec6d61eb2a6ec78c01865abe46fb14/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/22ed44a16a69d61426d83732817848e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8e0e239b7aa1543c93c456fa96fae400/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/4f3b282f685778d7d2f82d0c2e770a13/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/8f0e863857bd9fa6ad2131c5dbf4589e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/5070beca25da421a7580ac41bdec2f33/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3da25e18cf57baf7736ea59d3c59f690/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/8e1a3879e47241d1f6ced5c748484371/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f6ef7b4955a66fa663a498f43c0e8c90/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/43141802e9f0f285bc7f86808132cba1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/7821a5a3f505bf4c3364864b8a3ab3ec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/7d23dc2df9ebf740f94bde3575acfe8f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/cdca861693c0a2edfeda37cc0a1a8675/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e47aa40bfe688f4e2ba4cb62d5658978/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e815e8b60aa449000778d073d4f77e4d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b9b03c3f397e4e6ef33c674aca2bf3d1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b71fe27056224a71728cbb903cd17633/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/36db6a5f16eefeefd2fc7c58991d06b8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0ddc9e636fa66197cd95eef53d5f2bef/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0402ab79620b4ed8e391b6c35fc5c398/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b1f157eb38c7417019d3234da1155e40/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:18:1-41:12
+	package
+		ADDED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:19:5-44
+		INJECTED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:18:1-41:12
+		INJECTED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:18:1-41:12
+		INJECTED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:18:11-69
+application
+ADDED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:21:5-39:19
+MERGED from [com.android.support:design:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/81e14d38a85906f6c341569ccb733d85/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/81e14d38a85906f6c341569ccb733d85/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/dbba6e27c5ea75f4c46d59ff1f6ae51b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/dbba6e27c5ea75f4c46d59ff1f6ae51b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f6ef7b4955a66fa663a498f43c0e8c90/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f6ef7b4955a66fa663a498f43c0e8c90/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/43141802e9f0f285bc7f86808132cba1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/43141802e9f0f285bc7f86808132cba1/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f6ef7b4955a66fa663a498f43c0e8c90/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:27:9-40
+activity#com.example.android.droidcafe.MainActivity
+ADDED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:28:9-37:20
+	android:label
+		ADDED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:30:13-45
+	android:theme
+		ADDED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:29:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:35:27-74
+activity#com.example.android.droidcafe.OrderActivity
+ADDED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:38:9-60
+	android:name
+		ADDED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml:38:19-48
+uses-sdk
+INJECTED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/81e14d38a85906f6c341569ccb733d85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/81e14d38a85906f6c341569ccb733d85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/df35f91e58061bd5813aecad89c3a90b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/df35f91e58061bd5813aecad89c3a90b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/dbba6e27c5ea75f4c46d59ff1f6ae51b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/dbba6e27c5ea75f4c46d59ff1f6ae51b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/465da768e3f98d74ea48e16977a7b339/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/465da768e3f98d74ea48e16977a7b339/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8f784a1fb55725a38432579576d78539/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/8f784a1fb55725a38432579576d78539/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/8675b5b4cd01523d59f418c53d08066c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/8675b5b4cd01523d59f418c53d08066c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/05a97e21f8a847323e8d0d3bad406dd4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/05a97e21f8a847323e8d0d3bad406dd4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/78dfc87a49ae6920bf180b59350d1723/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/78dfc87a49ae6920bf180b59350d1723/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e1d32d4978667b488afabf28eeff1b20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e1d32d4978667b488afabf28eeff1b20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/9c9200797d3a3fd340dbdec9a3343279/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/9c9200797d3a3fd340dbdec9a3343279/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3eec6d61eb2a6ec78c01865abe46fb14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3eec6d61eb2a6ec78c01865abe46fb14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/22ed44a16a69d61426d83732817848e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/22ed44a16a69d61426d83732817848e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8e0e239b7aa1543c93c456fa96fae400/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8e0e239b7aa1543c93c456fa96fae400/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/4f3b282f685778d7d2f82d0c2e770a13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/4f3b282f685778d7d2f82d0c2e770a13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/8f0e863857bd9fa6ad2131c5dbf4589e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/8f0e863857bd9fa6ad2131c5dbf4589e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/5070beca25da421a7580ac41bdec2f33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/5070beca25da421a7580ac41bdec2f33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3da25e18cf57baf7736ea59d3c59f690/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3da25e18cf57baf7736ea59d3c59f690/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/8e1a3879e47241d1f6ced5c748484371/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/8e1a3879e47241d1f6ced5c748484371/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f6ef7b4955a66fa663a498f43c0e8c90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/f6ef7b4955a66fa663a498f43c0e8c90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/43141802e9f0f285bc7f86808132cba1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/43141802e9f0f285bc7f86808132cba1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/7821a5a3f505bf4c3364864b8a3ab3ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/7821a5a3f505bf4c3364864b8a3ab3ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/7d23dc2df9ebf740f94bde3575acfe8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/7d23dc2df9ebf740f94bde3575acfe8f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/cdca861693c0a2edfeda37cc0a1a8675/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/cdca861693c0a2edfeda37cc0a1a8675/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e47aa40bfe688f4e2ba4cb62d5658978/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/e47aa40bfe688f4e2ba4cb62d5658978/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e815e8b60aa449000778d073d4f77e4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e815e8b60aa449000778d073d4f77e4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b9b03c3f397e4e6ef33c674aca2bf3d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/b9b03c3f397e4e6ef33c674aca2bf3d1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b71fe27056224a71728cbb903cd17633/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b71fe27056224a71728cbb903cd17633/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/36db6a5f16eefeefd2fc7c58991d06b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/36db6a5f16eefeefd2fc7c58991d06b8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0ddc9e636fa66197cd95eef53d5f2bef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0ddc9e636fa66197cd95eef53d5f2bef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0402ab79620b4ed8e391b6c35fc5c398/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0402ab79620b4ed8e391b6c35fc5c398/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b1f157eb38c7417019d3234da1155e40/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/Guitarman76940/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b1f157eb38c7417019d3234da1155e40/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson4-user_interaction/buttons_and_clickable_images/DroidCafe/app/src/main/AndroidManifest.xml
