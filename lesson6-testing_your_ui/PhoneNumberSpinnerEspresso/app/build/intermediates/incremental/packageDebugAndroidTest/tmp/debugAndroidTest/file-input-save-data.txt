@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri May 10 15:00:47 EDT 2019
+0.baseType=DIRECTORY
+0.base=/Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson6-testing_your_ui/PhoneNumberSpinnerEspresso/app/build/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/out
+0.path=classes.dex
+0.set=DEX
+count=1

@@ -1,0 +1,4 @@
+#Mon Apr 22 14:20:21 EDT 2019
+base.0=/Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson9-perferences_and_settings/DroidCafeOptionsUpWithSettings/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex

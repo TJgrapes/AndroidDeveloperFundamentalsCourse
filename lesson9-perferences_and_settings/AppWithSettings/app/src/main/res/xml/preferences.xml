@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <android.support.v7.preference.SwitchPreferenceCompat
+        android:defaultValue="true"
+        android:key="example_switch_1"
+        android:summary="Turn this option on or off"
+        android:title="Settings option" />
+
+    <android.support.v7.preference.SwitchPreferenceCompat
+        android:defaultValue="true"
+        android:key="example_switch_2"
+        android:summary="Turn this option on or off"
+        android:title="Settings option 2" />
+
+    <android.support.v7.preference.SwitchPreferenceCompat
+        android:defaultValue="true"
+        android:key="example_switch_3"
+        android:summary="Turn this option on or off"
+        android:title="Settings option 3" />
+
+
+</PreferenceScreen>

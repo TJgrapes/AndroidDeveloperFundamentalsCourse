@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/Guitarman76940/AndroidStudioProjects/java_projects/google_codelabs/android_fundamentals_developer_course/lesson9-perferences_and_settings/DroidCafeOptionsUpWithSettings/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/Users/Guitarman76940/.gradle/caches/transforms-2/files-2.1/d1c37580c0b8d5ac61c7aed16144b0b2/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "120,204,288,384,486,588,682"
+                    }
+                }
+            ]
+        }
+    ]
+}
